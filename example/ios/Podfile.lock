@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - simple_permissions (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - simple_permissions (from `.symlinks/plugins/simple_permissions/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  simple_permissions:
+    :path: ".symlinks/plugins/simple_permissions/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  simple_permissions: 8ea52208b437f8fae29d97a55fe00b705a53246b
+
+PODFILE CHECKSUM: e6458f7d6d3fec96866615f857a179a76fb65cc5
+
+COCOAPODS: 1.5.3
